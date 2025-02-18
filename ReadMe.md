@@ -1,26 +1,108 @@
-## Attendance Management System
+# 🚀 Parallel Skill Worlds – AI-Driven Career Exploration
 
-This project is a simple command-line Attendance Management System in C++ designed for administrators and students. It includes functionalities for registering students, tracking attendance, and managing student records. The program features both admin and student login options, and allows administrators to manage and monitor student attendance.
+![Parallel Skill Worlds Banner]([https://via.placeholder.com/1000x400?text=Parallel+Skill+Worlds](https://drive.google.com/file/d/1tolBve_ymLKHN471d1-3o3V3tPjILUHF/view?usp=sharing))
 
-# Table of Contents
-Features
-Getting Started
-File Structure
-Usage
-Functions Overview
-Future Improvements
-Features
-Admin View:
+> **🌟 AI-powered career guidance platform built with React, TypeScript, and Supabase! 🌟**  
+> Explore careers, take mock tests, and track your learning progress – all in one place.
 
-# Register new students.
-Delete all or specific students by roll number.
-View student list and attendance count.
-Check individual student attendance count by roll number.
-Student View:
+---
 
-# Mark attendance.
-View personal attendance count.
-User Authentication:
+## 📌 Table of Contents
+- [✨ Features](#-features)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🚀 Installation Guide](#-installation-guide)
+- [📸 Screenshots](#-screenshots)
+- [🏆 Contributing](#-contributing)
+- [📜 License](#-license)
 
-# Separate login for admin and students.
-# Admin credentials are hardcoded as username: admin and password: admin@2.
+---
+
+## ✨ Features
+✅ **AI-Powered Career Advisor** – Personalized career recommendations  
+✅ **Mock Tests & Instant Feedback** – Assess skills for chosen career paths  
+✅ **Secure Authentication** – Supabase-powered login system  
+✅ **Career Dashboard** – Track progress & study resources  
+✅ **Modern UI/UX** – Built with **React + Tailwind CSS**  
+✅ **Fast & Efficient** – Uses **Vite** for optimized performance  
+✅ **TypeScript Powered** – Ensuring scalability & maintainability  
+
+---
+
+## 🛠️ Tech Stack
+### **Frontend:**
+- ⚛️ **React (TypeScript)** – Interactive UI  
+- 🎨 **Tailwind CSS** – Responsive & modern styling  
+- ⚡ **Vite** – Ultra-fast build tool  
+
+### **Backend:**
+- 🏪 **Supabase (PostgreSQL)** – Authentication & database storage  
+- 🔐 **Supabase Auth** – Secure user authentication  
+
+### **Other Tools:**
+- 🧹 **ESLint** – Code linting for best practices  
+- 🎭 **PostCSS** – Advanced styling enhancements  
+- 🗄 **Database Migrations** – Supabase migration system  
+
+---
+
+## 🚀 Installation Guide
+### 1️⃣ Clone the Repository
+sh
+git clone https://github.com/your-username/parallel-skill-worlds.git
+cd parallel-skill-worlds
+
+
+### 2️⃣ Install Dependencies
+sh
+npm install
+
+
+### 3️⃣ Configure Supabase
+- Create a **Supabase project**  
+- Copy the **API keys** and update .env:
+env
+VITE_SUPABASE_URL=your-supabase-url
+VITE_SUPABASE_ANON_KEY=your-anon-key
+
+
+### 4️⃣ Start the Development Server
+sh
+npm run dev
+
+🚀 **Visit:** http://localhost:3000/
+
+---
+
+## 📸 Screenshots
+| AI Chatbot | Career Selection | Mock Tests | Dashboard |
+|------------|----------------|------------|-----------|
+| ![Chatbot](https://via.placeholder.com/300) | ![Selection](https://via.placeholder.com/300) | ![Tests](https://via.placeholder.com/300) | ![Dashboard](https://via.placeholder.com/300) |
+
+*(Replace placeholders with actual images.)*
+
+---
+
+## 🏆 Contributing
+🙌 **Want to contribute? Follow these steps:**  
+1️⃣ **Fork the repo**  
+2️⃣ **Create a branch** (git checkout -b feature-xyz)  
+3️⃣ **Commit your changes** (git commit -m "Added feature")  
+4️⃣ **Push to your branch** (git push origin feature-xyz)  
+5️⃣ **Open a Pull Request**  
+
+💡 **Ideas for Contribution:**  
+🔹 Add more career paths  
+🔹 Improve UI/UX design  
+🔹 Optimize AI chatbot responses  
+
+---
+
+## 📜 License
+📄 This project is **open-source** under the **MIT License**. Free to use & modify!  
+
+---
+
+## ⭐ Like the Project? Support Us!
+📌 **[Star the Repository](https://github.com/your-username/parallel-skill-worlds)** *(Replace with actual repo link)*  
+
+🚀 **Let’s redefine career exploration with AI!** 💡
